@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SongSuggester.Infrastructure/bin/Debug/net8.0
+/SongSuggester.Infrastructure/obj
+/SongSuggestor/bin/Debug/net8.0
+/SongSuggestor/obj
+/SongSuggestor.Application/bin/Debug/net8.0
+/SongSuggestor.Application/obj
